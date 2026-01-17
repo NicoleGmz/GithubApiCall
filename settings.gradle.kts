@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "GithubApiCall"
 include(":app")
+include(":data")
+include(":domain")
